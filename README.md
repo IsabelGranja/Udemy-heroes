@@ -19,9 +19,10 @@ Un **gran poder** requiere _una_ gran *responsabilidad*
 1. item
 2. item
 3. item
-  * subitem 
-   * subitem 
-    * subitem 
+
+ * subitem 
+ * subitem
+ * subitem 
     
 ![Batman](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/batman-dc-1568105013.jpg?resize=768:*)
 [Ir a la imagen](https://en.wikipedia.org/wiki/Batman)
